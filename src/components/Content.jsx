@@ -49,7 +49,7 @@ class Content extends Component {
         const { films, isLoading, error } = this.state;
         
         return (
-            <div>
+            <div className="content">
                 <div className="card film-cards">
                     {films.map(film =>
                     <div className="card-body film-container" key={film.objectID}>

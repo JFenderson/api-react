@@ -4,6 +4,12 @@
   background-color: gold;
 }
 
+.people-button {
+  background-color: rgb(42, 128, 168);
+  border-radius: 5px;
+
+}
+
 header {
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
@@ -17,7 +23,20 @@ header {
 .film-container {
   border: 2px solid black;
   border-radius: 5px;
+  background-color: khaki;
+  margin: 10px;
 }
 .logo {
   width: 50%;
+}
+
+.people-cards {
+  text-align: center;
+}
+
+.people-container {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgb(140, 212, 240);
+  margin: 10px;
 }
