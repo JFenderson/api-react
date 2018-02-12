@@ -1,0 +1,23 @@
+.film-button {
+  color: rgb(10, 10, 10);
+  border-radius: 5px;
+  background-color: gold;
+}
+
+header {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+  font-size: 2em;
+}
+
+.film-cards {
+  text-align: center;
+}
+
+.film-container {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.logo {
+  width: 50%;
+}
